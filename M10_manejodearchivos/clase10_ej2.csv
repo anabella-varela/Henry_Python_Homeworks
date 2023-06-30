@@ -1,0 +1,7 @@
+Temperature     Humidity    Rain 
+
+20			20			true
+100			20			True
+23 06 29 16 48 15			100			20			True
+23 06 30 09;35:51			20			100			true
+23/06/30 09:37:03			100			100			true
